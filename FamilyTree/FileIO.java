@@ -1,7 +1,6 @@
-package Family_Tree;
+package FamilyTree;
 
 import java.io.*;
-import java.util.List;
 
 public class FileIO<T> implements FileIOInterface<T> {
     @Override
